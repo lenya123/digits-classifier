@@ -1,0 +1,14 @@
+{
+  "cv_accuracy": {
+    "logreg": 0.9701,
+    "knn": 0.9749,
+    "random_forest": 0.9763,
+    "svm": 0.9833
+  },
+  "best_params": {
+    "svc__C": 50,
+    "svc__gamma": 0.01
+  },
+  "best_cv": 0.9833,
+  "test_accuracy": 0.9833
+}
